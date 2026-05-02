@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Купить продукты",
+    "description": "Молоко, хлеб, яйца",
+    "completed": false
+  },
+  {
+    "title": "Сделать практическую работу",
+    "description": "Модуль 5, задание 4",
+    "completed": false
+  },
+  {
+    "title": "Отправить отчет",
+    "description": "Проверить скриншоты и загрузить на GitHub",
+    "completed": true
+  }
+]
